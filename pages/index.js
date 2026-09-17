@@ -10,19 +10,19 @@ export default function Home() {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>
-    Hi! I’m Nashly Bondoc, an IT student who enjoys technology, coding, and
-    learning new tools. I’m interested in building user-friendly websites and
-    applications.
-  </p>
+     <p>
+  I chose Information Technology because I enjoy working with computers,
+  technology, and coding. I’m interested in learning how websites and
+  applications are created and how they can help people.
+</p>
 
-  <p>
-    I also enjoy basketball, playing online games, going to the gym, and
-    traveling to different places. I like exploring new ideas and improving my
-    skills in programming and web development. In the future, I hope to build a
-    successful career in the technology industry and create useful applications
-    that can help people.
-  </p>
+<p>
+  I chose this specialization because I want to improve my programming and
+  problem-solving skills. I also want to learn new technologies and gain
+  experience in creating user-friendly systems. In the future, I hope to use
+  my skills to build useful applications and have a successful career in the
+  technology industry.
+</p>
 
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
